@@ -12,7 +12,7 @@ Welcome to Budget Pilot! This privacy policy explains how we collect, use, and p
    - Income details
    - Expense records
 
-* **Device Information**: We may collect device-specific information, such as your device type, operating system, and unique device identifiers.
+* **Device Information**: We do not collect device-specific information, such as your device type, operating system, and unique device identifiers.
 
 ## How We Use Your Data
 
